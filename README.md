@@ -1,2 +1,2 @@
 # MA5470-Numerical-Analysis
-Graduate level analysis course 
+Linear systems, Iterative procedures, Non-Linear systems, RK Methods, Shooting Methods for BVPs
